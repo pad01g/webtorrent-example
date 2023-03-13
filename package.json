@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pad01g/webtorrent-image#readme",
   "dependencies": {
+    "bittorrent-tracker": "^10.0.2",
     "http-server": "^14.1.1"
   }
 }
